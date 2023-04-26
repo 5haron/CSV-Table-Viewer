@@ -100,7 +100,7 @@ python3 showTable.py -d Name example.csv
 
 7. Filter rows based on the string "on":
 ```bash
-python3 showTable.py -m "at" example.csv
+python3 showTable.py -m "on" example.csv
 ```
 
 8. Display the first 10 rows of the table:
