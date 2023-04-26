@@ -28,7 +28,7 @@ The program consists of four main modules:
 
 
 ## Getting Started
-Follow these steps to set up and run the CSV Table Viewer program on your local machine:
+Follow these steps to set up and run the CSV Table Viewer program:
 
 ### Prerequisites
 
