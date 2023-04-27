@@ -107,3 +107,24 @@ python3 showTable.py -m "on" example.csv
 ```bash
 python3 showTable.py -n 10 example.csv
 ```
+
+## Directory Information
+* ```codes```- contains the BEBOP program codes
+* ```tests```- contains some Gaussian Hartree-Fock output files
+* ```output```- contains BEBOP output file examples
+
+## Included Files
+To see a test example containing a curated CSV file data, view: 
+* ```example.csv```
+
+For information regarding the API used by the CSV Table Viewer program modules, view:
+* ```api_description.md```
+
+For infromation regarding the dependencies used in the CSV Table Viewer program, view:
+* ```dependencies.md```
+
+For infromation regarding the data printed by the CSV Table Viewer program using the example data, view:
+* ```example_output.md```
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
