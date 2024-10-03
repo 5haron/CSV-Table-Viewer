@@ -5,13 +5,12 @@ It uses several helper functions to parse command-line arguments, read and
 clean data from a file, format and sort data, and print data to the console.
 '''
 
-import argparse
 import sys
 import os
 import string
 from cmd_parser import parse_arguments
 from data_reader import read_data, clean_data, filter_rows_by_string
-from table_formatter import (pretty_print, print_columns,
+from src.table_formatter import (pretty_print, print_columns,
                              sort_by_column_up, sort_by_column_down)
 
 def main(args):
